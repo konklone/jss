@@ -1,6 +1,6 @@
 ## JSON Simple Syndication
 
-**RSS-JSON**, a working title for a **R**eally **S**imple **S**yndication spec using **JSON**.
+**RSS-JSON**, a working title for a Really Simple Syndication spec using JSON.
 
 ### Goals
 
