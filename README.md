@@ -15,12 +15,11 @@ An item might look something like:
   "title": "An Insightful Blog Post",
   "description": "The beginning of my post is as follows...",
   "url": "https://someonegreat.com/insightful-blog-post",
+  "published_at": "2014-04-10T19:00:00Z",
 
   "source": "someonegreat.com",
   "type": "article",
   "id": "insightful-blog-post",
-
-  "published_at": "2014-04-10T19:00:00Z",
 
   "data": {
     "home": "https://someonegreat.com",
@@ -40,12 +39,11 @@ but also something like:
   "title": "McCutcheon et al. v. Federal Election Commission",
   "description": "",
   "url": "http://www.supremecourt.gov/opinions/13pdf/12-536_e1pf.pdf",
+  "published_at": "2014-04-10T19:00:00Z",
 
   "source": "supremecourt.gov",
   "type": "opinion",
   "id": "347-us-483",
-
-  "published_at": "2014-04-10T19:00:00Z",
 
   "data": {
     "citation": "347 U.S. 483",
